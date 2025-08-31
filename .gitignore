@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+.env
+db/            # Carpeta de ChromaDB
+*.db           # Archivos de SQLite
+chat.ipynb
+
+
+
+
+
+
